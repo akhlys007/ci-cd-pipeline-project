@@ -166,10 +166,10 @@ artifacts:
 
 | Key                | Value                                                                 |
 |--------------------|------------------------------------------------------------------------|
-| `AWS_ACCOUNT_ID`   | `474668403494`                                                         |
+| `AWS_ACCOUNT_ID`   | `private`                                                         |
 | `AWS_DEFAULT_REGION` | `eu-north-1`                                                        |
 | `IMAGE_REPO_NAME`  | `nodejs-server-demo-private`                                           |
-| `REPOSITORY_URI`   | `474668403494.dkr.ecr.eu-north-1.amazonaws.com/nodejs-server-demo-private` |
+| `REPOSITORY_URI`   | `private.dkr.ecr.eu-north-1.amazonaws.com/nodejs-server-demo-private` |
 | `IMAGE_TAG`        | `latest`                                                               |
 | `CONTAINER_NAME`   | `nodejs-server-demo-private`                                           |
 
