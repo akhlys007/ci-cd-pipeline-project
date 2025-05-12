@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a simple Node.js application using Docker containers on AWS ECS (with Fargate), managed via a complete CI/CD pipeline using **CodeCommit**, **CodeBuild**, **CodePipeline**, and **ECR**. It automates container builds and deployments on code push.
 
-[nodejs-server-alb-1-1198286681.eu-north-1.elb.amazonaws.com](Live Demo of the completed Nodejs App)
+[Live Demo of the completed Node.js App](http://nodejs-server-alb-1-1198286681.eu-north-1.elb.amazonaws.com)
 ## 📌 Table of Contents
 - [Architecture Overview](#architecture-overview)
 - [Project Structure](#project-structure)
